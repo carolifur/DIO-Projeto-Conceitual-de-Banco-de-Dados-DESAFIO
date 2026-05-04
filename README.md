@@ -28,5 +28,5 @@ Meios de Pagamento: O sistema permite que um único cliente tenha múltiplas for
 Rastreabilidade: Cada entrega possui um codigo_rastreio único e um status_entrega (ex: Processando, Em Trânsito, Entregue), permitindo o acompanhamento em tempo real pelo cliente.
 
 
-![Diagrama do Banco de Dados](./BD-DIO-drawio.png)
+![Diagrama do Banco de Dados](./BD-DIO.drawio.png)
 
